@@ -1,4 +1,4 @@
-# agenda-frontend
+# http-project
 
 > A Vue.js project
 
